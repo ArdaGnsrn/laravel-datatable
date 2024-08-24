@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace ArdaGnsrn\DataTable\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class DataTableCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-datatable';
 
     public $description = 'My command';
 
